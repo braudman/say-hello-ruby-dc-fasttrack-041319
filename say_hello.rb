@@ -5,4 +5,4 @@ def say_hello(name ="Hello, Ruby Programmer!")
   
 end
 
-say_hello(name)
+say_hello('name')
